@@ -285,7 +285,7 @@ include:alibaba
 include:b3log
 include:baidu
 include:bluepoch
-include:bytedance @cn
+include:bytedance-cn
 include:didi
 include:dji
 include:huawei
